@@ -1,0 +1,11 @@
+monitor_name,org,capacity,base_woreda
+WFP-1,WFP,25,Jijiga
+WFP-2,WFP,25,Awbare
+WFP-3,WFP,25,Shinile
+WFP-4,WFP,25,Kebri Beyah
+WFP-5,WFP,25,(any)
+TPM-1,TPM,40,Jijiga
+TPM-2,TPM,40,Awbare
+TPM-3,TPM,40,Shinile
+TPM-4,TPM,40,Kebri Beyah
+TPM-5,TPM,40,(any)
